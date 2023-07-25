@@ -8,7 +8,7 @@ public class aa {
 
         String nome;
 
-        System.out.print("Informe um nome: ");
+        System.out.print("Informe um nome_: ");
         nome = scan.nextLine();
 
         System.out.println();
